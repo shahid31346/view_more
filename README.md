@@ -1,4 +1,4 @@
-# readmore
+# viewMore
 
 An interactive text container that supports collapsible and expandable content.
 

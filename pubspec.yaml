@@ -1,6 +1,6 @@
 name: view_more
 description: An interactive text container that supports collapsible and expandable content.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/shahid31346/view_more.git
 
 environment:
